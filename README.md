@@ -1,7 +1,6 @@
 # Face Recognition Project
 
-![Project Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDdjdm42N2d4ZnljM2c2Y3VwNmtodXhwcGlvejg0M3dmYTZvbGc0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bX6YoII3xRzTa0rkxV/giphy.gif)
-
+![Imgur](https://i.imgur.com/clUVutG.gif)
 
 ## Overview
 
