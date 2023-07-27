@@ -1,5 +1,8 @@
 # Face Recognition Project
 
+![Project Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDdjdm42N2d4ZnljM2c2Y3VwNmtodXhwcGlvejg0M3dmYTZvbGc0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bX6YoII3xRzTa0rkxV/giphy.gif)
+
+
 ## Overview
 
 This project demonstrates real-time face recognition using Python and the face_recognition library. It captures video from the webcam, detects faces, and compares them with known faces to recognize individuals and display their name respectively. The known faces are stored as face encodings, and the face_recognition library is used for face detection and recognition.
