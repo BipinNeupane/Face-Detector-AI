@@ -47,7 +47,7 @@ The face recognition script follows these steps:
 - Click a clear image of yourself showing your face
 - Give the photo a name (Name of the person who's in the Photo)
 - Save it in ``images/`` folder 
-- Run the program and wallah
+- Run the program and voila
 
 ## Known Issues
 
