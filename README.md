@@ -1,6 +1,6 @@
 # Face Recognition Project
 
-![Imgur](https://i.imgur.com/clUVutG.gif)
+![Demo](src/Face_Detection.gif)
 
 ## Overview
 
